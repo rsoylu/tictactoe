@@ -1,6 +1,9 @@
 # Tic Tac Toe  
+This is an implementation of the classic tic tac toe game in Python. The game can be played on the command line. Instructions for how to play are written below.  
+
+The computer side for the tic tac toe game uses the minimax algorithm to calculate the next best move. The pseudocode used to do this is below.  
+
 ![image](https://github.com/rsoylu/tictactoe/assets/70935031/4495bdb5-29e9-4732-8ab4-871ea501e2cd)  
-This is a tic tac toe game implemented using the above pseudocode, the minimax search algorithm.  
 
 Additionally, I have implemented the tic tac toe game using alpha beta pruning, with the following pseudocode.  
 ![image](https://github.com/rsoylu/tictactoe/assets/70935031/1e91bd60-03aa-4bb2-8763-1e1440a643b6)
