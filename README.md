@@ -32,9 +32,6 @@ and exits.
 
 # Program Details  
 ■ The Tic-Tac-Toe game board is represented by 3 x 3 grid with cells numbered as follows  
-1 | 2 | 3  
---+---+--  
-4 | 5 | 6  
---+---+--  
-7 | 8 | 9  
+![image](https://github.com/rsoylu/tictactoe/assets/70935031/5a4d3735-9fa3-4cad-83bb-4956b12dc3fe)  
+
 ■ Possible moves/actions for both players match cell numbers (if a player wants to place an ‘X’ in the middle of the board, the move/action is ‘5’,
